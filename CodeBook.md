@@ -30,4 +30,4 @@ The script performs the following steps:
 
 6. Name subject column as 'subject'.
 
-7. Creates a second, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as tidy_data_with_averages.txt.
+7. Creates a second, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as result_with_averages.txt.
